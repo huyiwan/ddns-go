@@ -1,0 +1,1 @@
+from jeessy/ddns-go:v6.12.5
